@@ -1,4 +1,4 @@
-=== WooCommerce Each add to cart ===
+=== Woo Each add to cart ===
 Contributors: musus
 Donate link: 
 Tags: woocommerce, ecommerce, e-commerce, Japanese
